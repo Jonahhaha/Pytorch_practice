@@ -1,4 +1,4 @@
-# Pytorch_practive
+# Pytorch practice
 
 I am using guns csv file to test some deep learning. To generate some graphs and understanding the Nerual Network. 
 
